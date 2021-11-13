@@ -1,0 +1,2 @@
+We should use Tuple instead of List.
+The reason is that, tuples are the same as lists are with the exception that the data once entered into the tuple cannot be changed no matter what. Since these values in our application will be accessed several times but won't be changed, it is better to use Tuple to store our value.
